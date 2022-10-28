@@ -1,0 +1,6 @@
+* { box-sizing: border-box; }
+body {
+  font: 16px Arial;
+  text-decoration: solid;
+  background-color: rgb(139, 169, 169);
+}
