@@ -27,7 +27,7 @@ function fetch_top_five($name){
         $count = 0;
         while (($arr= fgetcsv($handle)) !== FALSE) {
             if($count == $movie_index){
-                // echo "Got it at :";
+                 echo "Got it at :";
                 // echo $count;
                 break;
             }
